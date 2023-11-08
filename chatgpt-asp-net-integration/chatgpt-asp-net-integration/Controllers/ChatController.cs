@@ -5,9 +5,8 @@ using OpenAI_API.Models;
 
 namespace ChatGPT.ASP.NET.Integration.Controllers
 {
-    [ApiController]
     [Route("bot/[controller]")]
-    public class ChatController : ControllerBase
+    public class ChatController : Controller
     {
 
         private readonly OpenAIAPI _chatGpt;
