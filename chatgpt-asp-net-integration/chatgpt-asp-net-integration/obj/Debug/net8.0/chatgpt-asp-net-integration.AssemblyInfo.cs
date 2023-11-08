@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("chatgpt-asp-net-integration")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d235c285e49f3febb7c60771b39aa28c7b481b25")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8038e98cbf4a3e248791901677fd6d36590714e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("chatgpt-asp-net-integration")]
 [assembly: System.Reflection.AssemblyTitleAttribute("chatgpt-asp-net-integration")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
