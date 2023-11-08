@@ -25,7 +25,7 @@ namespace ChatGPT.ASP.NET.Integration.Controllers
             var completion = new CompletionRequest
             {
                 Prompt = prompt,
-                Model = Model.ChatGPTTurbo,
+                Model = Model.DavinciText,
                 MaxTokens = 200
             };
             var result = await _chatGpt.Completions.CreateCompletionAsync(completion);
