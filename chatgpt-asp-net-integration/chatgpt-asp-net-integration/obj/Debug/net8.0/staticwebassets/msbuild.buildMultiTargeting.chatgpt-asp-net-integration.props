@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\chatgpt-asp-net-integration.props" />
-</Project>
